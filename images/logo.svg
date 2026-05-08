@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Smart Data Cloud Hub Logo</title>
+  <desc id="logoDesc">Abstract shield and data flow logo in cool blue tones</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#49c7f5"/>
+      <stop offset="100%" stop-color="#6ce0d7"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="26" fill="#0a1626"/>
+  <path d="M64 14 104 30v28c0 23-12 43-40 56C36 101 24 81 24 58V30z" fill="none" stroke="url(#g1)" stroke-width="6"/>
+  <circle cx="44" cy="56" r="8" fill="#6ce0d7"/>
+  <circle cx="64" cy="44" r="8" fill="#49c7f5"/>
+  <circle cx="84" cy="58" r="8" fill="#6ce0d7"/>
+  <path d="M44 56 64 44 84 58" fill="none" stroke="#d9f4ff" stroke-width="5" stroke-linecap="round"/>
+  <path d="M64 44v40" stroke="#d9f4ff" stroke-width="5" stroke-linecap="round"/>
+</svg>
